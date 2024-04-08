@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+h1{
+    font-size: 120px;
+    color: chocolate;
+}
+p{
+    font-size: 14px;
+    color: blue;
+}
+#boss{color: brown;}
+.presentation{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+div{
+    border: solid red;
+    width: 600px;
+    font-size: 200px;
+    border-radius: 30%;
+    margin: 50px;
+    padding: 50px;
+    
+}
